@@ -9,4 +9,4 @@ _italico_
 
 Informacoes sobre a receita
 
-Lore ipsum
+Lore ipsum2
